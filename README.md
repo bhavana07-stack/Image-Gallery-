@@ -10,21 +10,21 @@ The gallery uses CSS Grid for layout management and includes hover effects, cust
 
 ## Features
 
-✅ Responsive Design
+Responsive Design
 
-✅ 3-Column Layout on Desktop
+3-Column Layout on Desktop
 
-✅ 1-Column Layout on Mobile
+1-Column Layout on Mobile
 
-✅ CSS Grid Layout
+CSS Grid Layout
 
-✅ Hover Zoom Effects
+Hover Zoom Effects
 
-✅ Racing-Themed UI
+Racing-Themed UI
 
-✅ Custom Google Font (Orbitron)
+Custom Google Font (Orbitron)
 
-✅ Modern Red & Black Color Scheme
+Modern Red & Black Color Scheme
 
 ---
 
