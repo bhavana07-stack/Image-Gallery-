@@ -1,4 +1,4 @@
-# 🏎️ Formula 1 Image Gallery
+# Formula 1 Image Gallery
 
 ## Overview
 
@@ -75,4 +75,4 @@ F1-Image-Gallery/
 
 ## Author
 
-Created as part of a Front-End Web Development project using HTML and CSS.
+Bhavana
